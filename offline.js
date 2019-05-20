@@ -1,0 +1,32 @@
+﻿{
+	"version": 1557850114,
+	"fileList": [
+		"data.js",
+		"c2runtime.js",
+		"jquery-2.1.1.min.js",
+		"offlineClient.js",
+		"images/tiledbackground.png",
+		"images/spider-sheet0.png",
+		"images/spider-sheet1.png",
+		"images/platform1-sheet0.png",
+		"images/sprite-sheet0.png",
+		"images/tainik-sheet0.png",
+		"images/enemy1-sheet0.png",
+		"images/tiledbackground2.png",
+		"images/healka-sheet0.png",
+		"images/sprite4-sheet0.png",
+		"images/tiledbackground3.png",
+		"images/invisiblewall-sheet0.png",
+		"images/sprite2-sheet0.png",
+		"media/Мина Взорвалась (www.mp3cut.ru).ogg",
+		"media/Звук Подбора.ogg",
+		"media/Смерть.ogg",
+		"media/Удар.ogg",
+		"icon-16.png",
+		"icon-32.png",
+		"icon-114.png",
+		"icon-128.png",
+		"icon-256.png",
+		"loading-logo.png"
+	]
+}
